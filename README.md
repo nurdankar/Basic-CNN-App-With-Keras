@@ -1,2 +1,1 @@
-# Basic-TensorFlow-App
-A Classification Problem
+Convolutional Neural Network Training
